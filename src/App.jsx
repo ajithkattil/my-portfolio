@@ -6,7 +6,8 @@ export default function App() {
       <div className="mt-6 space-x-4">
         <a className="text-blue-400 underline" href="/resume.pdf" target="_blank">Resume</a>
         <a className="text-blue-400 underline" href="https://github.com/ajithkattil" target="_blank">GitHub</a>
-        <a className="text-blue-400 underline" href="https://huggingface.co/spaces/cltajith/AgenticOps" target="_blank">Hugging Face Space</a>
+        <a className="text-blue-400 underline" href="https://huggingface.co/spaces/cltajith/AgenticOps" target="_blank">POC1 in Hugging Face Space</a>
+        <a className="text-blue-400 underline" href="https://huggingface.co/spaces/cltajith/genai-rag-chatbot-hf" target="_blank">POC2 in Hugging Face Space</a>
       </div>
     </div>
   );
